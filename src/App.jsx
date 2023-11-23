@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Header from './components/Header';
 import AboutMe from './pages/AboutMe';
 import Portfolio from './pages/Portfolio';
@@ -11,11 +11,11 @@ const App = () => {
     <Router>
       <div>
         <Header />
-        <Switch>
-          <Route path="/portfolio" component={Portfolio} />
-          <Route path="/contact" component={Contact} />
-          <Route path="/" exact component={AboutMe} />
-        </Switch>
+        <Routes>
+          <Route path="/" element={<AboutMe />} />
+          <Route path="/portfolio" element={<Portfolio />} />
+          <Route path="/contact" element={<Contact />} />
+        </Routes>
         <Footer />
       </div>
     </Router>
@@ -23,4 +23,3 @@ const App = () => {
 };
 
 export default App;
-
