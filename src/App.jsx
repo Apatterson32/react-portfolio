@@ -1,3 +1,4 @@
+// src/App.jsx
 import React from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import Header from './components/Header';
@@ -14,7 +15,7 @@ const App = () => {
         <Switch>
           <Route path="/portfolio" component={Portfolio} />
           <Route path="/contact" component={Contact} />
-          <Route path="/" component={AboutMe} />
+          <Route path="/" exact component={AboutMe} />
         </Switch>
         <Footer />
       </div>
@@ -23,3 +24,4 @@ const App = () => {
 };
 
 export default App;
+
