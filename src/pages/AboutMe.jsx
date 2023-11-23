@@ -11,8 +11,8 @@ const AboutMe = () => {
           applications.
         </p>
         <p>
-          I have continued to be driven in my pursuit of creating something that moves humankind forward, therefore I started my journey into programming in 2023. I love to code 
-          and explore new technologies to create efficient and scalable solutions.
+          In 2023, I delved into programming with a clear goal: to contribute to the progress of humankind. My dedicated drive pushes me to create solutions that make a
+           meaningful impact. I appreciate the programming community's need to explore new technologies so that we collectively aim to create efficient and scalable solutions.
         </p>
       </section>
       <section>
