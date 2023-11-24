@@ -1,9 +1,44 @@
-# React + Vite
+# Professional Developers Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A comprehensive portfolio showcasing my skills, projects, and expertise in the field of software development.
 
-Currently, two official plugins are available:
+## License
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-test
+[![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](LICENSE)
+
+This portfolio is licensed under the MIT License.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Skills](#skills)
+- [Education](#education)
+- [Contact](#contact)
+- [License](#license)
+
+## Introduction
+
+Welcome to my professional portfolio! This collection of projects and experiences reflects my journey and proficiency as a developer. From creating innovative solutions to collaborating on impactful projects, this portfolio is a testament to my commitment to excellence in software development.
+
+## Skills
+
+- **Programming Languages:** List of programming languages I am proficient in.
+- **Frameworks and Libraries:** Mention frameworks and libraries I have expertise in.
+- **Databases:** Specify databases and data management tools I am familiar with.
+- **Version Control:** Indicate proficiency in version control systems.
+
+## Education
+
+- University of Utah Full Stack Bootcamp
+
+
+## Contact
+
+- **GitHub Profile:** [GitHub Profile](https://github.com/Apatterson32)
+- **Email:** [Your Email Address](mailto:pattersonal10@gmail.com)
+
+Feel free to explore my projects, review my skills, and reach out for any collaboration or inquiries. I look forward to connecting with you!
+
+## License
+
+This portfolio is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
