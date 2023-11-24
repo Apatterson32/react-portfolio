@@ -1,0 +1,30 @@
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(250px, 1fr));
+  gap: 20px;
+}
+
+.project-card {
+  border: 2px solid #333;
+  padding: 20px;
+  text-align: center;
+}
+
+.project-card img {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+/* Add media queries for responsive adjustments if needed */
+@media (max-width: 768px) {
+  .projects-grid {
+    grid-template-columns: repeat(2, minmax(250px, 1fr));
+  }
+}
+
+@media (max-width: 480px) {
+  .projects-grid {
+    grid-template-columns: repeat(1, minmax(250px, 1fr));
+  }
+}
