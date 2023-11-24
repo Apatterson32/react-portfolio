@@ -3,7 +3,7 @@ import React from 'react';
 const Footer = () => {
   return (
     <footer>
-      <div>
+      <div class="github-link">
         <a href="https://github.com/Apatterson32" target="_blank" rel="noopener noreferrer">
           GitHub
         </a>
