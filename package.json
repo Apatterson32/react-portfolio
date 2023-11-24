@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "main": "src/main.jsx",
-  "homepage": "https://Apatterson32.github.io",
+  "homepage": "https://Apatterson32.github.io/react-portfolio",
   "scripts": {
    "predeploy": "npm run build",
    "deploy": "gh-pages -b main -d build",
