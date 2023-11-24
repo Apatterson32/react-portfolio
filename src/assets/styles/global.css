@@ -1,16 +1,18 @@
+/* styles/global.css */
+
 @import 'tailwindcss/utilities';
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 
 :root {
-  --main-background-color: #FFFFFF; 
-  --accent-color-1: #BAD0DE; 
+  --main-background-color: #B6A5B0; 
+  --accent-color-1: #8C7284; 
   --text-color: #000000; 
 }
 
 body {
   margin: 0;
-  padding: 0;
+  padding: 20px;
   font-family: Arial, sans-serif;
   background-color: var(--main-background-color);
   color: var(--text-color);
@@ -35,7 +37,8 @@ nav ul {
 nav li {
   display: inline-block;
   margin-left: 20px;
-  font-size: 16px;
+  margin-right: 10px;
+  font-size: 20px;
   color: var(--text-color);
   cursor: pointer;
 }
@@ -47,13 +50,23 @@ nav li:hover {
 footer {
   background-color: var(--accent-color-1);
   color: var(--text-color);
-  padding: 10px;
-  text-align: center;
-  position: fixed;
-  bottom: 0;
-  width: 100%;
+  text-align: right;
+  position: relative;
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 125px;
+}
+.github-link {
+  margin-right: 20px;
 }
 
 .main-content {
   padding: 20px;
+  text-align: center;
 }
+
+section {
+  margin-bottom: 20px; /* Add space between sections */
+}
+
+/* Add more styles as needed */
