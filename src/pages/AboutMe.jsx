@@ -2,7 +2,7 @@ import React from 'react';
 
 const AboutMe = () => {
   return (
-    <div>
+    <div className="center-content">
       <section>
         <p>
           Hello! I'm Alissa Patterson, a passionate web developer with a strong
@@ -15,18 +15,20 @@ const AboutMe = () => {
         </p>
       </section>
       <section>
-        <ul>
-          <li>HTML5</li>
-          <li>CSS3</li>
-          <li>JavaScript (ES6+)</li>
-          <li>React.js</li>
-          <li>Node.js</li>
-          <li>Express.js</li>
-          <li>MongoDB</li>
-          <li>MySQL</li>
-          <li>GraphQL</li>
-          <li>RESTful APIs</li>
-        </ul>
+        <div className='skills-list'>
+          <ul>
+            <li>HTML5</li>
+            <li>CSS3</li>
+            <li>JavaScript (ES6+)</li>
+            <li>React.js</li>
+            <li>Node.js</li>
+            <li>Express.js</li>
+            <li>MongoDB</li>
+            <li>MySQL</li>
+            <li>GraphQL</li>
+            <li>RESTful APIs</li>
+          </ul>
+         </div> 
       </section>
     </div>
   );
