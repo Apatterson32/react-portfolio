@@ -22,10 +22,9 @@ Welcome to my professional portfolio! This collection of projects and experience
 
 ## Skills
 
-- **Programming Languages:** List of programming languages I am proficient in.
-- **Frameworks and Libraries:** Mention frameworks and libraries I have expertise in.
-- **Databases:** Specify databases and data management tools I am familiar with.
-- **Version Control:** Indicate proficiency in version control systems.
+- **Programming Languages:** Javascript
+- **Frameworks and Libraries:** React, Node.js, jQuery
+- **Databases:** SQL, MongoDB and GraphQL
 
 ## Education
 
@@ -34,8 +33,8 @@ Welcome to my professional portfolio! This collection of projects and experience
 
 ## Contact
 
-- **GitHub Profile:** [GitHub Profile](https://github.com/Apatterson32)
-- **Email:** [Your Email Address](mailto:pattersonal10@gmail.com)
+- [GitHub Profile](https://github.com/Apatterson32)
+- [Your Email Address](mailto:pattersonal10@gmail.com)
 
 Feel free to explore my projects, review my skills, and reach out for any collaboration or inquiries. I look forward to connecting with you!
 
