@@ -4,7 +4,6 @@ const AboutMe = () => {
   return (
     <div>
       <section>
-        <h2>About Me</h2>
         <p>
           Hello! I'm Alissa Patterson, a passionate web developer with a strong
           background in creating modern, responsive, and user-friendly web
