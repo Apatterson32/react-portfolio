@@ -9,7 +9,7 @@
 }
 
 .body-content {
-  padding: 20px;
+  padding: 40px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: large;
 }
@@ -79,9 +79,9 @@ footer {
   justify-content: flex-end;
   position: absolute;
   padding: 10px;
-  bottom: 20px;
-  left: 20px;
-  right: 20px;
+  bottom: 40px;
+  left: 40px;
+  right: 40px;
   
 }
 
