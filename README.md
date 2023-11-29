@@ -46,6 +46,8 @@ Feel free to explore my projects, review my skills, and reach out for any collab
  <summary>Deployment</summary>
  <br>
     [Live Deployment Link]()
+
+    
     -![Screenshot 2023-11-27 205452](https://github.com/Apatterson32/react-portfolio/assets/135552416/08cb173e-e286-4c0f-ae4f-3b51a88818dc)
 </details>
 

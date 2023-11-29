@@ -5,37 +5,37 @@ import '../assets/styles/portfolio.css'
 const projects = [
   {
     title: 'Parks Planner',
-    imageSrc: '../assets/images/parksplanner.png',
+    imageSrc: './src/assets/images/parksplanner.png',
     githubLink: 'https://github.com/Apatterson32/ParksPlanner',
   },
 
   {
     title: 'Mind Mapper',
-    imageSrc: '../assets/images/mindmapper.png',
+    imageSrc: './src/assets/images/mindmapper.png',
     githubLink: 'https://github.com/Apatterson32/Mind-Mapper',
   },
 
   {
     title: 'Weather Report',
-    imageSrc: '../assets/images/weatherforecast.png',
+    imageSrc: './src/assets/images/weatherforecast.png',
     githubLink: 'https://github.com/Apatterson32/butterfly-wings',
   },
 
   {
     title: 'Day Planner',
-    imageSrc: '../assets/images/dayplanner.png',
+    imageSrc: './src/assets/images/dayplanner.png',
     githubLink: 'https://github.com/Apatterson32/human-time-planner',
   },
 
   {
     title: 'Inventory Application',
-    imageSrc: '../assets/images/intellistock,png',
+    imageSrc: './src/assets/images/intellistock.png',
     githubLink: 'https://github.com/akidd15/IntelliStock',
   },
 
   {
     title: 'Coding Quiz',
-    imageSrc: '../assets/images/codingquiz.png',
+    imageSrc: './src/assets/images/codingquiz.png',
     githubLink: 'https://github.com/Apatterson32/timed-coding-quiz',
   },
 ];
