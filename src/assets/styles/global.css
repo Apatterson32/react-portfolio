@@ -3,9 +3,9 @@
 @import 'tailwindcss/components';
 
 :root {
-  --main-background-color: #B6A5B0; 
-  --accent-color-1: #8C7284; 
-  --text-color: #000000; 
+  --main-background-color: #8e7a6a; 
+  --accent-color-1: #3c5560; 
+  --text-color: #f0f0f0; 
 }
 
 .body-content {
