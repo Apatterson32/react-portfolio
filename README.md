@@ -45,10 +45,11 @@ Feel free to explore my projects, review my skills, and reach out for any collab
 <details>
  <summary>Deployment</summary>
  <br>
-    [Live Deployment Link]()
+    [Live Deployment Link](https://elegant-tapioca-babbb6.netlify.app/)
 
     
-    -![Screenshot 2023-11-27 205452](https://github.com/Apatterson32/react-portfolio/assets/135552416/08cb173e-e286-4c0f-ae4f-3b51a88818dc)
+    ![Screenshot 2023-12-01 003641](https://github.com/Apatterson32/react-portfolio/assets/135552416/a83146df-1a9e-440f-b0fd-6eb5843830f0)
+
 </details>
 
 ## License
